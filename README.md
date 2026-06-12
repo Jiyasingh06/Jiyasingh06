@@ -1,20 +1,77 @@
-<h1 align="center">Hey, I'm Jiya Singh 👋</h1>
+
+<h1 align="center">Hi 👋, I'm Jiya Singh</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE Student from India 🇮🇳</h3>
 
 <p align="center">
-engineer.designer.builder
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer+Aspirant;Building+Healthcare+Tech+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-## 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently building Healthcare & AI Projects
-- 📫 Reach me: jiyasingh6870@gmail.com
 
-  ## 🛠 Tech Stack
+---
 
-<!-- <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,git,github,aws,docker,vscode" />
-</p> -->
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### 👩‍💻 About Me
+Computer Science Engineering student
+- 🚀 Currently building AI-powered Healthcare Solutions and a Patient Management System.
+- 🤖 Exploring **AI Engineering & Machine Learning**
+- 🌱 Learning **System Design, AWS, Docker & Generative AI**
+- 📫 Reach me at: **jiyasingh6870@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code and ideas into products**
+
+<br>
+
+### 🌐 Connect With Me
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,docker,aws,postman" />
+<a href="https://www.linkedin.com/in/jiyasinghh/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/jiyasingh_06/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:jiyasingh6870@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/jiyasinghh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,docker,aws,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jiyasinghh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasinghh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyasinghh&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=jiyasinghh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+```
