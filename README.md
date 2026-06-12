@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Jiya Singh 👋</h1>
 
-<!--
-**Jiyasingh06/Jiyasingh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+engineer.designer.builder
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE Student
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently building Healthcare & AI Projects
+- 📫 Reach me: jiyasingh6870@gmail.com
+
+  ## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,git,github,aws,docker,vscode" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jiyasinghh&show_icons=true&theme=tokyonight" />
+</p>
