@@ -12,13 +12,9 @@ engineer.designer.builder
 
   ## 🛠 Tech Stack
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,git,github,aws,docker,vscode" />
+</p> -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,docker,aws,postman" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jiyasinghh&show_icons=true&theme=tokyonight" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyasinghh&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasinghh&layout=compact&theme=tokyonight" />
-<img src="https://komarev.com/ghpvc/?username=jiyasinghh&color=blue" />
