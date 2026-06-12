@@ -3,9 +3,7 @@
 <p align="center">
 engineer.designer.builder
 </p>
-
 ## 🚀 About Me
-
 - 🎓 B.Tech CSE Student
 - 💻 Full Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
@@ -21,3 +19,6 @@ engineer.designer.builder
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jiyasinghh&show_icons=true&theme=tokyonight" />
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyasinghh&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasinghh&layout=compact&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=jiyasinghh&color=blue" />
