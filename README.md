@@ -7,7 +7,7 @@
 </p> -->
 
 ---
-<img align="right" alt="Girl Coding" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"/>
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 ### 👩‍💻 About Me
 Computer Science Engineering student
