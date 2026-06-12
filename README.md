@@ -7,14 +7,13 @@
 </p> -->
 
 ---
-<img align="right" alt="Girl Developer" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 ### 👩‍💻 About Me
 Computer Science Engineering student
 - 🚀 Currently building AI-powered Healthcare Solutions and a Patient Management System.
 - 🤖 Exploring **AI Engineering & Machine Learning**
 - 🌱 Learning **System Design, AWS, Docker & Generative AI**
-- 📫 Reach me at: **jiyasingh6870@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code and ideas into products**
 
 <br>
