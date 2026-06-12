@@ -7,7 +7,7 @@
 </p> -->
 
 ---
-<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" alt="Girl Developer" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 ### 👩‍💻 About Me
 Computer Science Engineering student
@@ -34,7 +34,7 @@ Computer Science Engineering student
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/jiyasinghh">
+<a href="https://github.com/Jiyasingh06">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
