@@ -1,14 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Jiya Singh</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE Student from India 🇮🇳</h3>
+<h3 align="center">engineeer.designer.builder</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer+Aspirant;Building+Healthcare+Tech+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
-
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="Girl Coding" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"/>
 
 ### 👩‍💻 About Me
 Computer Science Engineering student
@@ -47,28 +46,6 @@ Computer Science Engineering student
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,docker,aws,postman" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jiyasinghh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasinghh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyasinghh&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=jiyasinghh&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
