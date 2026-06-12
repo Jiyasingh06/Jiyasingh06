@@ -7,7 +7,7 @@
 </p> -->
 
 ---
-<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 ### 👩‍💻 About Me
 Computer Science Engineering student
