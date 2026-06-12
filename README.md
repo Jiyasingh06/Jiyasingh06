@@ -38,14 +38,13 @@ Computer Science Engineering student
 </a>
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,docker,aws,postman" />
 </p>
----
+
 
 ### 🐍 Contribution Snake
 
